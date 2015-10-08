@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  validity: MyString
+  price: 1.5
+  name: MyString
+  description: MyString
+  operator: MyString
+  state: MyString
+  minutesFree: 1.5
+  ratePerMinute: 1.5
+  local: 1.5
+  sameOperator: 1.5
+
+two:
+  validity: MyString
+  price: 1.5
+  name: MyString
+  description: MyString
+  operator: MyString
+  state: MyString
+  minutesFree: 1.5
+  ratePerMinute: 1.5
+  local: 1.5
+  sameOperator: 1.5

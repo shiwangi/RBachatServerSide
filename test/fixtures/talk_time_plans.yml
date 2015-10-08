@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  validity: MyString
+  price: 1.5
+  name: MyString
+  description: MyString
+  operator: MyString
+  state: MyString
+  balance: 1.5
+
+two:
+  validity: MyString
+  price: 1.5
+  name: MyString
+  description: MyString
+  operator: MyString
+  state: MyString
+  balance: 1.5
